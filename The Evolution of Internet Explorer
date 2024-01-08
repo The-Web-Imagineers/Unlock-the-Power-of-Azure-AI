@@ -1,0 +1,194 @@
+<header>The latest version of Internet Explorer is **Internet Explorer 11**¹²³⁴. However, support for Internet Explorer ended on **June 15, 2022**¹²⁴. Internet Explorer 11 has been permanently disabled through a Microsoft Edge update on certain versions of Windows 10¹²⁴. Microsoft recommends using Microsoft Edge for a faster, more secure, and more modern web browsing experience¹²⁴. If any site you visit needs Internet Explorer 11, you can reload it with Internet Explorer mode in Microsoft Edge¹²⁴.
+
+Source: Conversation with Bing, 11/29/2023
+(1) Run the latest version of Internet Explorer 11 - Microsoft Support. https://support.microsoft.com/en-us/windows/run-the-latest-version-of-internet-explorer-11-ea628df4-50ce-8019-f9f4-468e39685cea.
+(2) Internet Explorer - Microsoft Download Center. https://www.microsoft.com/en-us/download/internet-explorer.
+(3) Download Internet Explorer 11 (Offline installer). https://support.microsoft.com/en-us/windows/download-internet-explorer-11-offline-installer-99d492a1-3a62-077b-c476-cf028aff9a7f.
+(4) Internet Explorer Downloads - Microsoft Support. https://support.microsoft.com/en-us/windows/internet-explorer-downloads-d49e1f0d-571c-9a7b-d97e-be248806ca70.
+
+<!--
+  <<< Author notes: Course header >>>
+  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
+  Add your open source license, GitHub uses MIT license.
+-->
+
+# Introduction to GitHub
+
+_Get started using GitHub in less than an hour._
+
+</header>
+
+<!--
+  <<< Author notes: Step 1 >>>
+  Choose 3-5 steps for your course.
+  The first step is always the hardest, so pick something easy!
+  Link to docs.github.com for further explanations.
+  Encourage users to open new tabs for steps!
+-->
+
+## Step 1: Create a branch
+
+_Welcome to "Introduction to GitHub"! :wave:_
+
+**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
+<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+
+**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+
+**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+
+Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
+
+**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+
+![profile-readme-example](/images/profile-readme-example.png)
+
+### :keyboard: Activity: Your first branch
+
+1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
+2. Navigate to the **< > Code** tab in the header menu of your repository.
+
+   ![code-tab](/images/code-tab.png)
+
+3. Click on the **main** branch drop-down.Sure, here's an article about the versions of Internet Explorer:
+
+# The Evolution of Internet Explorer
+
+Internet Explorer, often abbreviated as IE, was a series of graphical web browsers developed by Microsoft and included as part of the Microsoft Windows line of operating systems.
+
+## Internet Explorer 1.0
+
+Internet Explorer 1.0 was first released as part of the add-on package Plus! for Windows 95 in August 1995. It was a reworked version of Spyglass Mosaic which Microsoft had licensed.
+
+## Internet Explorer 3.0
+
+Internet Explorer 3.0, released in 1996, was the first version to provide a full browsing experience, with support for background sounds, images, tables, and other HTML enhancements.
+
+## Internet Explorer 5.0
+
+Internet Explorer 5.0, released in 1999, was the first version to integrate more closely with Windows, allowing users to browse the web directly from the Windows desktop.
+
+## Internet Explorer 6.0
+
+Internet Explorer 6.0, released in 2001, was the most widely used web browser during its tenure (surpassing Netscape). It was the last version to be based on the Trident layout engine.
+
+## Internet Explorer 7.0
+
+Internet Explorer 7.0, released in 2006, was the first version to include tabbed browsing, a highly requested feature at the time.
+
+## Internet Explorer 8.0
+
+Internet Explorer 8.0, released in 2009, added several new features, including a search box and improved security.
+
+## Internet Explorer 9.0
+
+Internet Explorer 9.0, released in 2011, was the first version to support HTML5 and CSS3.
+
+## Internet Explorer 10.0
+
+Internet Explorer 10.0, released in 2012, was the first version to be included with Windows 8.
+
+## Internet Explorer 11.0
+
+Internet Explorer 11.0, released in 2013, is the final version of Internet Explorer. It was officially discontinued in June 2022.
+
+In conclusion, Internet Explorer has had a long and storied history, from its inception in 1995 to its final version in 2013. Despite being discontinued, it played a significant role in shaping the internet as we know it today.
+
+   ![main-branch-dropdown](/images/main-branch-dropdown.png)
+
+4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
+5. Click **Create branch: my-first-branch** to create your branch.
+
+   ![create-branch-button](/images/create-branch-button.png)
+
+   The branch will automatically switch to the one you have just created.
+   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
+
+6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+<footer>
+
+<!--
+  <<< Author notes: Footer >>>
+  Add a link to get support, GitHub status page, code of conduct, license link.
+-->
+
+--
+Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub
+
+ status page](https://www.githubstatus.com/)
+
+A readme.md file is a text file that contains information about a project, such as its description, features, installation, usage, license, and contributors. It is usually written in Markdown, a lightweight markup language that allows you to format text using simple syntax.
+
+To generate a readme.md file, you can follow these steps:
+
+1. **Create a new file**: In your GitHub repository, click on "Add file" and then "Create new file". Name the file "readme.md" and make sure it is in the root directory of your project.
+2. **Write the content**: Use Markdown syntax to write the content of your readme.md file. You can use headings, lists, tables, code blocks, links, images, and other elements to make your file informative and attractive. You can also use emojis to add some personality to your file.
+3. **Preview and save**: Before saving your file, you can preview how it will look on GitHub by clicking on the "Preview" tab at the top of the editor. If you are satisfied with your file, click on "Commit new file" at the bottom of the page.
+
+Here is an example of a readme.md file for a fictional project called Next Horizon:
+
+# Next Horizon
+
+Next Horizon is a web app that helps you unleash your potential by providing you with personalized insights, tips, and resources based on your goals and interests.
+
+![Screenshot of Next Horizon]
+
+## Features
+
+- **Set your goals**: Choose from a variety of categories, such as health, education, career, and hobbies, and set your specific goals for each one.
+- **Track your progress**: See how far you have come and how much you have left to achieve your goals. Get feedback and encouragement along the way.
+- **Learn new skills**: Discover new skills that can help you reach your goals faster and easier. Watch videos, read articles, and take quizzes to learn from experts and peers.
+- **Connect with others**: Join a community of like-minded people who share your goals and interests. Chat, collaborate, and exchange ideas with them.
+
+## Installation
+
+To install Next Horizon, you need to have Node.js and npm installed on your computer. Then, follow these steps:
+
+1. **Clone the repository**: Run the following command in your terminal to clone the Next Horizon repository:
+
+```bash
+git clone https://github.com/next-horizon/next-horizon.git
+```
+
+2. **Install the dependencies**: Navigate to the project directory and run the following command to install the required packages:
+
+```bash
+npm install
+```
+
+3. **Start the server**: Run the following command to start the server on your local machine:
+
+```bash
+npm start
+```
+
+4. **Open the app**: Open your browser and go to http://localhost:3000 to see the app in action.
+
+## Usage
+
+To use Next Horizon, you need to create an account and log in. Then, you can:
+
+- **Create your profile**: Fill in your name, email, and password, and choose your avatar and background image.
+- **Select your goals**: Browse through the categories and select the goals that you want to pursue. You can also create your own custom goals.
+- **View your dashboard**: See your goals, progress, skills, and community on your dashboard. You can also access your settings and notifications from here.
+- **Explore the app**: Click on any of the icons on your dashboard to access the corresponding features. You can also use the search bar to find specific topics or users.
+
+## License
+
+Next Horizon is licensed under the MIT License. See the [LICENSE] file for more details.
+
+## Contributors
+
+Next Horizon is developed by a team of passionate developers who want to help people achieve their dreams. Here are the contributors:
+
+- **Alice**: Alice is the project manager and the lead developer of Next Horizon. She is responsible for overseeing the development process and ensuring the quality of the code. She is also skilled in web design and user interface.
+- **Bob**: Bob is the backend developer of Next Horizon. He is responsible for creating the server, the database, and the API for the app. He is also proficient in security and authentication.
+- **Charlie**: Charlie is the frontend developer of Next Horizon. He is responsible for creating the client-side logic and the user interface for the app. He is also experienced in web animation and interactivity.
+
+If you want to contribute to Next Horizon, please read the [CONTRIBUTING] file for more information. We welcome any feedback, suggestions, or bug reports. Thank you for your support! 😊
+
+&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+</footer>
